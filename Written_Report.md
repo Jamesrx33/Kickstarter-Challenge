@@ -2,7 +2,7 @@
 
 ## **<p align="center">An analytics report designed to optimize the success of the _Fever_ Kickstarter campaign.</p>**
 
-### The following will identify and display success factors of Theater Kickstarter campaigns with a focus on _Launch Dates_ and _Funding Goals_. 
+### The following will identify and display success factors of Theater Kickstarter Campaigns with a focus on _Launch Dates_ and _Funding Goals_. 
 
 ---
 ## Method of Analysis
