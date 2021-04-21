@@ -1,8 +1,8 @@
-# Kickstarting with Excel
+# **<p align="center">Theater Kickstarter Analysis</p>**
 
-## A data analytics report designed to optimize the success of Louise's Kickstarter campaign for the play _Fever_.
+## **<p align="center">An analytics report designed to optimize the success of the _Fever_ Kickstarter campaign.</p>**
 
-### The following will identify and display success factors in regards to previous Theater Kickstarter campaigns with a focus on **Launch Dates** and **Funding Goals**. 
+### The following will identify and display success factors in regards to previous Theater Kickstarter campaigns with a focus on _Launch Dates_ and _Funding Goals_. 
 
 ---
 ## Method of Analysis
