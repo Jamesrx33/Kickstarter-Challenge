@@ -12,7 +12,7 @@
 
 2. **Analysis of Funding Goals:** A new Sheet was created and a "Goals" table was organized using 11 disitinct Goal ranges. The number of successful, failed and canceled Theater Kickstarter Campaigns was populated using the Excel COUNTIFS() fuction. This function referenced the data in the original sheet, filtered for the "Plays" subcategory and specified the range in its respective Goals Table row. After obtaining these metrics, the Total count of projects in each range was calculated using the Excel SUM() function. Finally, the percentage of successful, failed and canceled campaigns in each range was identified by taking the dividend of each respective count over the total. The "Outcomes Based on Goal" line chart below was then generated using these percentages and their attributed range.
 
-    * [Goals Reference Table](https://github.com/Jamesrx33/Kickstarter-Challenge/blob/main/Resources/Table_Outcomes_vs_Goals.png)
+    * [Funding Goals Reference Table](https://github.com/Jamesrx33/Kickstarter-Challenge/blob/main/Resources/Table_Outcomes_vs_Goals.png)
 
 ---
 ### Visualization of Launch Date Analysis
