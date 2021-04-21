@@ -58,4 +58,4 @@
   3. A Table that displays the number of backers and pledged amount for each Theater campaign (An analysis of Campaigns with a high volume of backers vs high average pledged amount could prove useful)
 
 ---
-## Reference Documentation - [Source Code Repository](https://github.com/Jamesrx33/Kickstarter-Challenge/tree/main)
+## Reference Documentation - [Source Code Repository](https://github.com/Jamesrx33/Kickstarter-Challenge/tree/main), [Download .xlsx project file](https://github.com/Jamesrx33/Kickstarter-Challenge/raw/main/Kickstarter_Challenge.xlsx)
